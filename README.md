@@ -107,20 +107,6 @@ Ensure you have Python installed, then install required packages:
 
 🔹 Modify `--smoothing` and `--alpha` to test different configurations.
 
-### 📂 File Structure
-
-`📂 N-Gram-Language-Modeling
-├── 📄 main.py                 # Runs n-gram modeling & smoothing
-├── 📄 classifiers.py          # Implements language models
-├── 📄 utils.py                # Helper functions
-├── 📄 download_and_split_data.py  # Downloads dataset
-├── 📄 test.py                 # Runs tests
-├── 📄 train.csv               # Training dataset
-├── 📄 dev.csv                 # Development dataset
-├── 📄 test.csv                # Test dataset
-├── 📄 README.md               # This file`
-
-* * * * *
 
 📜 Purpose & Applications
 -------------------------
